@@ -1,2 +1,3 @@
 getgenv().ExecDis = true
+getgenv().DefaultCam = 1
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vuwu/as/main/strat", true))()
