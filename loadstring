@@ -1,3 +1,2 @@
-getgenv().PotatoPC = true
 getgenv().ExecDis = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vuwu/as/main/strat", true))()
